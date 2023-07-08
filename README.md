@@ -8,7 +8,7 @@ steps to be followed:
 
 ->Open Matlab software and paste the encoder.m file.
 
-->In imread("") function, write the name of the image.
+->In imread("") function, write the name of the image for example I've used barbara.jpg image.
 
 ->The encoder module will give the histogram of the original and embedded image , in which bit 1 is embedded at the peak point , the image after embedding and the PSNR of the embed image versus original image.
 
